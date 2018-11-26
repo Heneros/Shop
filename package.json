@@ -1,5 +1,5 @@
 {
-  "name": "nodejses",
+  "name": "nodejes",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -11,7 +11,8 @@
   "author": "Heneros",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.18.3",
+    "fsevents": "^1.2.2"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
